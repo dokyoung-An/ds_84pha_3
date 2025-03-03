@@ -179,7 +179,8 @@
       <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1"/>
       <hotspot description="" pan="-193.64" tilt="-51.25" url="{node6}" title="복도1" skinid="ht_node" id="Point01" target=""/>
       <hotspot description="" pan="-191.78" tilt="-22.88" url="{node15}" title="침실2" skinid="ht_node" id="Point02" target=""/>
-      <hotspot description="" pan="-358.48" tilt="-25.43" url="" title="" skinid="display-거울장전등" id="Point03" target="_blank"/>
+      <hotspot description="" pan="-1.08999" tilt="-15.66" url="" title="" skinid="display-거울장전등" id="Point03" target="_blank"/>
+      <hotspot description="" pan="-2.6" tilt="67.7" url="" title="" skinid="display-전등" id="Point04" target="_blank"/>
     </hotspots>
     <media/>
     <transition softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000" delay="none" type="crossdissolve" blendtime="1" zoomspeed="2" zoomfov="40" zoomin="0" enabled="1" zoomoutpause="1"/>
@@ -479,7 +480,8 @@
       <label borderradius="1" backgroundalpha="1" textalpha="1" bordercolor="0x000000" textcolor="0x000000" backgroundcolor="0xffffff" background="1" wordwrap="1" enabled="1" width="180" border="1" borderalpha="1" height="20"/>
       <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1"/>
       <hotspot description="" pan="-96.36" tilt="-23.35" url="{node18}" title="파우더룸" skinid="ht_node" id="Point01" target=""/>
-      <hotspot description="" pan="-13.59" tilt="-20.41" url="" title="" skinid="display-거울장전등" id="Point02" target="_blank"/>
+      <hotspot description="" pan="-14.22" tilt="-7.92" url="" title="" skinid="display-거울장전등" id="Point02" target="_blank"/>
+      <hotspot description="" pan="-347.72" tilt="61.65" url="" title="" skinid="display-전등" id="Point03" target="_blank"/>
     </hotspots>
     <media/>
     <transition softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000" delay="none" type="crossdissolve" blendtime="1" zoomspeed="2" zoomfov="40" zoomin="0" enabled="1" zoomoutpause="1"/>
@@ -791,7 +793,8 @@
       <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1"/>
       <hotspot description="" pan="-189.08" tilt="-53.49" url="{node26}" title="복도1" skinid="ht_node" id="Point01" target=""/>
       <hotspot description="" pan="-191.78" tilt="-22.88" url="{node35}" title="침실2" skinid="ht_node" id="Point02" target=""/>
-      <hotspot description="" pan="-358.48" tilt="-25.43" url="" title="" skinid="display-거울장전등" id="Point03" target="_blank"/>
+      <hotspot description="" pan="-360.08" tilt="-17.77" url="" title="" skinid="display-거울장전등" id="Point03" target="_blank"/>
+      <hotspot description="" pan="-2.6" tilt="67.7" url="" title="" skinid="display-전등" id="Point04" target="_blank"/>
     </hotspots>
     <media/>
     <transition softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000" delay="none" type="crossdissolve" blendtime="1" zoomspeed="2" zoomfov="40" zoomin="0" enabled="1" zoomoutpause="1"/>
@@ -1092,7 +1095,8 @@
       <label borderradius="1" backgroundalpha="1" textalpha="1" bordercolor="0x000000" textcolor="0x000000" backgroundcolor="0xffffff" background="1" wordwrap="1" enabled="1" width="180" border="1" borderalpha="1" height="20"/>
       <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1"/>
       <hotspot description="" pan="-96.36" tilt="-23.35" url="{node38}" title="파우더룸" skinid="ht_node" id="Point01" target=""/>
-      <hotspot description="" pan="-13.59" tilt="-20.41" url="" title="" skinid="display-거울장전등" id="Point02" target="_blank"/>
+      <hotspot description="" pan="-13.65" tilt="-10.12" url="" title="" skinid="display-거울장전등" id="Point02" target="_blank"/>
+      <hotspot description="" pan="-347.72" tilt="61.65" url="" title="" skinid="display-전등" id="Point03" target="_blank"/>
     </hotspots>
     <media/>
     <transition softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000" delay="none" type="crossdissolve" blendtime="1" zoomspeed="2" zoomfov="40" zoomin="0" enabled="1" zoomoutpause="1"/>
@@ -1403,7 +1407,8 @@
       <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1"/>
       <hotspot description="" pan="-194.77" tilt="-51.52" url="{node46}" title="복도1" skinid="ht_node" id="Point01" target=""/>
       <hotspot description="" pan="-191.78" tilt="-22.88" url="{node55}" title="침실2" skinid="ht_node" id="Point02" target=""/>
-      <hotspot description="" pan="-358.48" tilt="-25.43" url="" title="" skinid="display-거울장전등" id="Point03" target="_blank"/>
+      <hotspot description="" pan="0.0499988" tilt="-17.09" url="" title="" skinid="display-거울장전등" id="Point03" target="_blank"/>
+      <hotspot description="" pan="-2.6" tilt="67.7" url="" title="" skinid="display-전등" id="Point04" target="_blank"/>
     </hotspots>
     <media/>
     <transition softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000" delay="none" type="crossdissolve" blendtime="1" zoomspeed="2" zoomfov="40" zoomin="0" enabled="1" zoomoutpause="1"/>
@@ -1704,6 +1709,7 @@
       <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1"/>
       <hotspot description="" pan="-96.36" tilt="-23.35" url="{node58}" title="파우더룸" skinid="ht_node" id="Point01" target=""/>
       <hotspot description="" pan="-13.59" tilt="-20.41" url="" title="" skinid="display-거울장전등" id="Point02" target="_blank"/>
+      <hotspot description="" pan="-347.72" tilt="61.65" url="" title="" skinid="display-전등" id="Point03" target="_blank"/>
     </hotspots>
     <media/>
     <transition softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000" delay="none" type="crossdissolve" blendtime="1" zoomspeed="2" zoomfov="40" zoomin="0" enabled="1" zoomoutpause="1"/>
@@ -2016,6 +2022,7 @@
       <hotspot description="" pan="-189.89" tilt="-53.44" url="{node66}" title="복도1" skinid="ht_node" id="Point01" target=""/>
       <hotspot description="" pan="-191.78" tilt="-22.88" url="{node75}" title="침실2" skinid="ht_node" id="Point02" target=""/>
       <hotspot description="" pan="-358.48" tilt="-25.43" url="" title="" skinid="display-거울장전등" id="Point03" target="_blank"/>
+      <hotspot description="" pan="-2.6" tilt="67.7" url="" title="" skinid="display-전등" id="Point04" target="_blank"/>
     </hotspots>
     <media/>
     <transition softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000" delay="none" type="crossdissolve" blendtime="1" zoomspeed="2" zoomfov="40" zoomin="0" enabled="1" zoomoutpause="1"/>
@@ -2316,7 +2323,8 @@
       <label borderradius="1" backgroundalpha="1" textalpha="1" bordercolor="0x000000" textcolor="0x000000" backgroundcolor="0xffffff" background="1" wordwrap="1" enabled="1" width="180" border="1" borderalpha="1" height="20"/>
       <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1"/>
       <hotspot description="" pan="-96.36" tilt="-23.35" url="{node78}" title="파우더룸" skinid="ht_node" id="Point01" target=""/>
-      <hotspot description="" pan="-13.59" tilt="-20.41" url="" title="" skinid="display-거울장전등" id="Point02" target="_blank"/>
+      <hotspot description="" pan="-12.54" tilt="-9.3" url="" title="" skinid="display-거울장전등" id="Point02" target="_blank"/>
+      <hotspot description="" pan="-347.72" tilt="61.65" url="" title="" skinid="display-전등" id="Point03" target="_blank"/>
     </hotspots>
     <media/>
     <transition softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000" delay="none" type="crossdissolve" blendtime="1" zoomspeed="2" zoomfov="40" zoomin="0" enabled="1" zoomoutpause="1"/>
